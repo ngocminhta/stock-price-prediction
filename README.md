@@ -4,7 +4,7 @@ This work is a mini-project under the course IT2022E - Applied Statistics and Ex
 Supervisor: Assoc. Prof. NGUYEN Linh Giang
 
 This repository contains all folders of our project about "Stock Price Analysis and Prediction".
-============
+---
 
 ![image](https://github.com/tttruong0812/Capstone-Project-ML/assets/95478230/eb5cb261-5759-4937-a9a5-cff1cba66229)
 
