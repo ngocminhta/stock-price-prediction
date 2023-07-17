@@ -1,4 +1,4 @@
-Stock Price Prediction using ARIMA
+**Vietnamese Stock Price Prediction: *Analyzing Market Trends and Forecasting Future Price***
 ============
 This work is a mini-project under the course IT2022E - Applied Statistics and Experimental Design.
 Supervisor: Assoc. Prof. NGUYEN Linh Giang
